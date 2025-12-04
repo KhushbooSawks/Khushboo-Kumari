@@ -1,49 +1,53 @@
-# 👋 Hi, I'm Khushboo Kumari!
+👋 Hi, I'm Khushboo Kumari
 
-🎓 I'm an Electronics and Communication Engineering student at **Ramgarh Engineering College**, under **Jharkhand University of Technology**, with a current GPA of **8.0/10**.
+🎓 Electronics and Communication Engineering student at Ramgarh Engineering College (JUT)
+📊 GPA: 8.0 / 10
 
-🚀 Passionate about bridging the gap between **hardware** and **software**, I work on projects in:
-- 🎙️ **Speech Processing & Audio Classification**
-- 🤖 **Robotics & Embedded Systems**
-- 🔐 **Cybersecurity & IoT-based Solutions**
+I’m passionate about combining software, hardware and intelligence to build impactful systems. My work spans AI/ML, speech signal processing, embedded systems, robotics, VLSI and IoT, where I love exploring how signals, circuits and algorithms come together to solve real-world problems.
 
----
+⚡ About Me
 
-## 🛠️ Skills & Tools
-- **Languages:** Python, C, C++, Embedded C, Verilog, MATLAB
-- **Platforms:** Arduino, ESP32, NodeMCU, Raspberry Pi
-- **Libraries:** Librosa, Scikit-learn, OpenCV, TensorFlow
-- **Others:** Git, GitHub, Jupyter, AWS (basics)
+🎙️ I work extensively on Speech Signal Processing & Audio Classification (MFCC, GFCC, LPC, jitter, shimmer, etc.).
 
----
+🤖 I build embedded and robotic systems using Arduino, ESP32, NodeMCU, Raspberry Pi.
 
-## 🏆 Highlights
-- 🔧 Founder of **Aarambh – Robotics Club** at my college
-- 🤖 Participant in **Robofest Gujarat 4.0**
-- 📊 Built classification models using **MFCC, GFCC, LPC, Jitter, Shimmer**
-- 👩‍🏫 Taught juniors about circuit design, microcontrollers, and design tools
+🔐 I also explore IoT security, testing and cyber-awareness systems.
 
----
+👩‍🏫 I enjoy mentoring juniors in circuits, microcontrollers, Verilog and design tools.
 
-## 📫 Connect with Me
-- 📧 Email: **khushboosawks@gmail.com**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/khushboo-kumari-3aa918292)
-  
+🛠️ Skills & Tools
+Programming
+
+Python, C, C++(Basics), Embedded C, Verilog, MATLAB
+
+Frameworks & Libraries
+
+Librosa, Scikit-learn, TensorFlow/Keras, Pandas
+
+Hardware & Platforms
+
+Arduino, ESP32, NodeMCU, Raspberry Pi, FPGA (basic)
+
+Tools
+
+Jupyter Notebook, Git/GitHub, Figma, AWS (basics)
+
+🏆 Achievements & Highlights
+
+🚀 Founder – Aarambh Robotics Club
+
+🤖 Participant – Robofest Gujarat 4.0
+
+🎤 Built multiple speech disorder & gender classification models
+
+🔍 Hands-on experience with digital logic design, VLSI basics and embedded testing
+
+📡 Worked on academic + internship projects bridging signal processing + machine learning
+
+📫 Connect With Me
+
+📧 khushboosawks@gmail.com
+
+🔗 LinkedIn: Khushboo Kumari
+
 “When hardware meets intelligence, innovation happens.”
-
-
-
-<!--
-**KhushbooSawks/khushboosawks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
