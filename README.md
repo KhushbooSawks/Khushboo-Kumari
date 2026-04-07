@@ -1,53 +1,80 @@
-👋 Hi, I'm Khushboo Kumari
+# 👋 Hi, I'm Khushboo Kumari
 
-🎓 Electronics and Communication Engineering student at Ramgarh Engineering College (JUT)
-📊 GPA: 8.0 / 10
+🎓 **Electronics & Communication Engineering (ECE)** | Ramgarh Engineering College (JUT)
+📊 **CGPA:** 8.0 / 10
 
-I’m passionate about combining software, hardware and intelligence to build impactful systems. My work spans AI/ML, speech signal processing, embedded systems, robotics, VLSI and IoT, where I love exploring how signals, circuits and algorithms come together to solve real-world problems.
+---
 
-⚡ About Me
+## 🚀 Professional Summary
 
-🎙️ I work extensively on Speech Signal Processing & Audio Classification (MFCC, GFCC, LPC, jitter, shimmer, etc.).
+Final-year ECE student with hands-on experience in **AI/ML, Speech Signal Processing, Embedded Systems and IoT**. Skilled in building **end-to-end machine learning pipelines**, including feature extraction, model training and evaluation.
 
-🤖 I build embedded and robotic systems using Arduino, ESP32, NodeMCU, Raspberry Pi.
+Experienced in developing **speech-based classification systems** with 85%+ accuracy and designing **embedded and robotic solutions** using microcontrollers and sensors.
 
-🔐 I also explore IoT security, testing and cyber-awareness systems.
+Actively seeking **AI/ML Engineer / Embedded Systems / Software Engineer roles** to build scalable and intelligent real-world solutions.
 
-👩‍🏫 I enjoy mentoring juniors in circuits, microcontrollers, Verilog and design tools.
+---
 
-🛠️ Skills & Tools
-Programming
+## ⚡ Core Expertise
 
-Python, C, C++(Basics), Embedded C, Verilog, MATLAB
+* **Machine Learning & AI:** Classification, Regression, SVM, CNN, Feature Engineering
+* **Speech Signal Processing:** MFCC, GFCC, LPC, Jitter, Shimmer, Feature Extraction
+* **Embedded Systems & Robotics:** Arduino, ESP32, NodeMCU, Raspberry Pi
+* **IoT & Cybersecurity:** IoT-based systems, basic security testing & awareness
+* **Core Electronics:** Digital Electronics, Analog Circuits, Communication Systems
 
-Frameworks & Libraries
+---
 
-Librosa, Scikit-learn, TensorFlow/Keras, Pandas
+## 🛠️ Technical Skills
 
-Hardware & Platforms
+**Programming:**
+Python, C, Embedded C, C++ (Basics), Verilog, MATLAB
 
-Arduino, ESP32, NodeMCU, Raspberry Pi, FPGA (basic)
+**Libraries & Frameworks:**
+Librosa, Scikit-learn, TensorFlow/Keras, Pandas, NumPy
 
-Tools
+**Tools & Platforms:**
+Git, GitHub, Jupyter Notebook, Linux, AWS (Basics), Figma
 
-Jupyter Notebook, Git/GitHub, Figma, AWS (basics)
+**Hardware:**
+Arduino, ESP32, NodeMCU, Raspberry Pi, FPGA (Basic)
 
-🏆 Achievements & Highlights
+---
 
-🚀 Founder – Aarambh Robotics Club
+## 📌 Key Projects
 
-🤖 Participant – Robofest Gujarat 4.0
+🔹 **Speech-Based Voice Disorder Detection**
 
-🎤 Built multiple speech disorder & gender classification models
+* Developed ML models using MFCC and advanced acoustic features
+* Achieved **85%+ accuracy** using SVM and CNN
+* Evaluated using confusion matrix and performance metrics
 
-🔍 Hands-on experience with digital logic design, VLSI basics and embedded testing
+🔹 **Smart Healthcare Rover**
 
-📡 Worked on academic + internship projects bridging signal processing + machine learning
+* Designed IoT-enabled rover for real-time patient monitoring
+* Integrated sensors with ML-based prediction system
 
-📫 Connect With Me
+🔹 **Autonomous Maze-Solving Robot**
 
-📧 khushboosawks@gmail.com
+* Built ESP32-based robot with ultrasonic sensors
+* Implemented real-time navigation and obstacle avoidance
 
+---
+
+## 🏆 Achievements
+
+* 🚀 Founder – Aarambh Robotics Club
+* 🤖 National Semi-Finalist – Robofest Gujarat 4.0
+* 🎓 Research Intern – Speech & Signal Processing (BIT Mesra)
+* ☁️ AWS Machine Learning Certification
+
+---
+
+## 📫 Contact
+
+📧 Email: [khushboosawks@gmail.com](mailto:khushboosawks@gmail.com)
 🔗 LinkedIn: Khushboo Kumari
 
-“When hardware meets intelligence, innovation happens.”
+---
+
+💡 *“Building intelligent systems by integrating AI, signals, and embedded technologies.”*
